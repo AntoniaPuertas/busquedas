@@ -1,5 +1,5 @@
 // Array de productos tecnológicos
-const productos = [
+export const productos = [
   {
     id: 1,
     nombre: "Teclado mecánico RGB",
@@ -241,5 +241,6 @@ const productos = [
     categoria: "software"
   }
 ];
+
 
 
